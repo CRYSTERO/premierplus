@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\mytime0.dir/objects.a
+D:\TDM-GCC\bin\ar.exe cr CMakeFiles\mytime0.dir/objects.a @CMakeFiles\mytime0.dir\objects1.rsp
+D:\TDM-GCC\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\mytime0.dir/objects.a -Wl,--no-whole-archive -o mytime0.exe -Wl,--out-implib,libmytime0.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\mytime0.dir\linklibs.rsp

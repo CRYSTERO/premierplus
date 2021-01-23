@@ -1,0 +1,17 @@
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/firstref.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/mytime0.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/strgfun.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/strgback.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/strtref.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/arrstruct.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/strtype3.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/structur.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/inline.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/union.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/swaps.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/left.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/funtemp.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/leftover.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/usetime0.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/MyPrograms/C++/PremierPlus/cmake-build-debug/CMakeFiles/rebuild_cache.dir

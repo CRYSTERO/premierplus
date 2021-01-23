@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\strgfun.dir/objects.a
+D:\TDM-GCC\bin\ar.exe cr CMakeFiles\strgfun.dir/objects.a @CMakeFiles\strgfun.dir\objects1.rsp
+D:\TDM-GCC\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\strgfun.dir/objects.a -Wl,--no-whole-archive -o strgfun.exe -Wl,--out-implib,libstrgfun.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\strgfun.dir\linklibs.rsp

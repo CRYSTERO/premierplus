@@ -1,0 +1,4 @@
+D:\CMake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\MyPrograms\C++\PremierPlus
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/MyPrograms/C++/PremierPlus/cmake-build-debug

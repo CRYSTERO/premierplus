@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\funtemp.dir/objects.a
+D:\TDM-GCC\bin\ar.exe cr CMakeFiles\funtemp.dir/objects.a @CMakeFiles\funtemp.dir\objects1.rsp
+D:\TDM-GCC\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\funtemp.dir/objects.a -Wl,--no-whole-archive -o funtemp.exe -Wl,--out-implib,libfuntemp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\funtemp.dir\linklibs.rsp

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/MyPrograms/C++/PremierPlus/strtype3.cpp
+iostream
+E:/MyPrograms/C++/PremierPlus/iostream
+string
+E:/MyPrograms/C++/PremierPlus/string
+cstring
+E:/MyPrograms/C++/PremierPlus/cstring
+

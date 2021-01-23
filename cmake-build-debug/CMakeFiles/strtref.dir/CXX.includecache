@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/MyPrograms/C++/PremierPlus/fun_ptr.cpp
+iostream
+E:/MyPrograms/C++/PremierPlus/iostream
+

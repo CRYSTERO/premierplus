@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\leftover.dir/objects.a
+D:\TDM-GCC\bin\ar.exe cr CMakeFiles\leftover.dir/objects.a @CMakeFiles\leftover.dir\objects1.rsp
+D:\TDM-GCC\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\leftover.dir/objects.a -Wl,--no-whole-archive -o leftover.exe -Wl,--out-implib,libleftover.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\leftover.dir\linklibs.rsp

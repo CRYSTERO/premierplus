@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\arrstruct.dir/objects.a
+D:\TDM-GCC\bin\ar.exe cr CMakeFiles\arrstruct.dir/objects.a @CMakeFiles\arrstruct.dir\objects1.rsp
+D:\TDM-GCC\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\arrstruct.dir/objects.a -Wl,--no-whole-archive -o arrstruct.exe -Wl,--out-implib,libarrstruct.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\arrstruct.dir\linklibs.rsp

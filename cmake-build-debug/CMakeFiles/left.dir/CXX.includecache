@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/MyPrograms/C++/PremierPlus/left.cpp
+iostream
+E:/MyPrograms/C++/PremierPlus/iostream
+cmath
+E:/MyPrograms/C++/PremierPlus/cmath
+

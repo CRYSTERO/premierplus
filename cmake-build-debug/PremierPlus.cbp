@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PremierPlus"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="firstref">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/firstref.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 firstref"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="firstref/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/firstref.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 firstref/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mytime0">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/mytime0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 mytime0"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mytime0/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/mytime0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 mytime0/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="strgfun">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/strgfun.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 strgfun"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="strgfun/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/strgfun.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 strgfun/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="strgback">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/strgback.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 strgback"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="strgback/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/strgback.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 strgback/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="strtref">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/strtref.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 strtref"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="strtref/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/strtref.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 strtref/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arrstruct">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/arrstruct.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 arrstruct"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arrstruct/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/arrstruct.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 arrstruct/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="strtype3">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/strtype3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 strtype3"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="strtype3/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/strtype3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 strtype3/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="structur">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/structur.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 structur"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="structur/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/structur.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 structur/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="inline">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/inline.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 inline"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="inline/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/inline.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 inline/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="union">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/union.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 union"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="union/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/union.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 union/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="swaps">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/swaps.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 swaps"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="swaps/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/swaps.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 swaps/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="left">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/left.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 left"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="left/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/left.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 left/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="funtemp">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/funtemp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 funtemp"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="funtemp/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/funtemp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 funtemp/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leftover">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/leftover.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 leftover"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leftover/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/leftover.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 leftover/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="usetime0">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/usetime0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 usetime0"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="usetime0/fast">
+				<Option output="E:/MyPrograms/C++/PremierPlus/cmake-build-debug/usetime0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="D:/TDM-GCC/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 usetime0/fast"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/MyPrograms/C++/PremierPlus/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/TDM-GCC/bin/mingw32-make.exe -f &quot;E:/MyPrograms/C++/PremierPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/11/mytime0.cpp">
+			<Option target="mytime0"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/11/mytime0.h">
+			<Option target="mytime0"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/11/usetime0.cpp">
+			<Option target="usetime0"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/arrstruct.cpp">
+			<Option target="arrstruct"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/firstref.cpp">
+			<Option target="firstref"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/fun_ptr.cpp">
+			<Option target="strtref"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/funtemp.cpp">
+			<Option target="funtemp"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/inline.cpp">
+			<Option target="inline"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/left.cpp">
+			<Option target="left"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/leftover.cpp">
+			<Option target="leftover"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/strgback.cpp">
+			<Option target="strgback"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/strgfun.cpp">
+			<Option target="strgfun"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/strtype3.cpp">
+			<Option target="strtype3"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/structur.cpp">
+			<Option target="structur"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/swaps.cpp">
+			<Option target="swaps"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/union.cpp">
+			<Option target="union"/>
+		</Unit>
+		<Unit filename="E:/MyPrograms/C++/PremierPlus/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

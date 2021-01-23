@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/MyPrograms/C++/PremierPlus/11/mytime0.cpp
+iostream
+E:/MyPrograms/C++/PremierPlus/11/iostream
+mytime0.h
+E:/MyPrograms/C++/PremierPlus/11/mytime0.h
+
+E:/MyPrograms/C++/PremierPlus/11/mytime0.h
+
+E:/MyPrograms/C++/PremierPlus/11/usetime0.cpp
+iostream
+E:/MyPrograms/C++/PremierPlus/11/iostream
+mytime0.h
+E:/MyPrograms/C++/PremierPlus/11/mytime0.h
+mytime0.cpp
+E:/MyPrograms/C++/PremierPlus/11/mytime0.cpp
+

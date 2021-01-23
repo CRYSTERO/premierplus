@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\firstref.dir/objects.a
+D:\TDM-GCC\bin\ar.exe cr CMakeFiles\firstref.dir/objects.a @CMakeFiles\firstref.dir\objects1.rsp
+D:\TDM-GCC\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\firstref.dir/objects.a -Wl,--no-whole-archive -o firstref.exe -Wl,--out-implib,libfirstref.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\firstref.dir\linklibs.rsp

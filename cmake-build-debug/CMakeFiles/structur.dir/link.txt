@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\structur.dir/objects.a
+D:\TDM-GCC\bin\ar.exe cr CMakeFiles\structur.dir/objects.a @CMakeFiles\structur.dir\objects1.rsp
+D:\TDM-GCC\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\structur.dir/objects.a -Wl,--no-whole-archive -o structur.exe -Wl,--out-implib,libstructur.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\structur.dir\linklibs.rsp
